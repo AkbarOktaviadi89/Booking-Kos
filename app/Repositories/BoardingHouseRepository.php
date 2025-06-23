@@ -28,6 +28,8 @@ class BoardingHouseRepository implements BoardingHouseRepositoryInterface
                 $query->where('slug', $category);
             });
         }
+
+        return $query->get();
     }
 
     public function getPopularBoardingHouse($limit = 5)
