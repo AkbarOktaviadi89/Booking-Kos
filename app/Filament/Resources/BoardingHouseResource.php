@@ -144,7 +144,7 @@ class BoardingHouseResource extends Resource
     {
         return [
             'index' => Pages\ListBoardingHouses::route('/'),
-            'create' => Pages\CreateBoardingHouse::route('/create'),
+            'create' => Pages\CreateBoardingHouses::route('/create'),
             'edit' => Pages\EditBoardingHouse::route('/{record}/edit'),
         ];
     }
