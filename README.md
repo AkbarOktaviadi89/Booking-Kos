@@ -23,9 +23,10 @@ Key features include:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  ![Blade](https://img.shields.io/badge/Blade-43.9%25-gray?style=for-the-badge&logo=blade&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-42.4%25-777BB4?style=for-the-badge&logo=php&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-10.3%25-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-3.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-</div>
+  ![Blade](https://img.shields.io/badge/Blade-43.9%25-gray?style=for-the-badge&logo=blade&logoColor=white) 
+  ![PHP](https://img.shields.io/badge/PHP-42.4%25-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/CSS-10.3%25-1572B6?style=for-the-badge&logo=css&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-3.4%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 
 ## 🎯 Getting Started
