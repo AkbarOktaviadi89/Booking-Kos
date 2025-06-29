@@ -11,6 +11,8 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/find-kos', [BoardingHouseController::class, 'find'])->name('find-kos');
 
+Route::get('/kos/{slug}', [BoardingHouseController::class, 'show'])->name('kos.show');
+
 Route::get('/check-booking', [BookingController::class, 'check'])->name('check-booking');
 
 Route::get('/category/{slug}', [CategoryController::class, 'show'])->name('category.show');
